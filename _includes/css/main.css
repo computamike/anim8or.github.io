@@ -186,7 +186,7 @@ section.success {
 }
 section.store {
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: #{{ site.color.secondary }};
 }
 @media(max-width:767px) {
     section {
