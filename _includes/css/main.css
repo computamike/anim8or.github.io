@@ -83,7 +83,7 @@ hr.star-white {
 }
 hr.star-white:after {
     color: #fff;
-    background-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.secondary }};
 }
 
 
