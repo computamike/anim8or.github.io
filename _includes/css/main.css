@@ -295,13 +295,12 @@ section.store {
 
 
 buttonEXT {
-    color: #ffffff;
+    color: #fff;
     background-color: #ffc000;
     padding: 15px 50px;
     cursor: pointer
 }
 buttonEXT:hover {
-    color: #ffffff;
     background-color: #128f76;
 }
 
