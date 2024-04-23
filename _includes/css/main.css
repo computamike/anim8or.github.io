@@ -184,7 +184,10 @@ section.success {
     color: #fff;
     background: #{{ site.color.primary }};
 }
-
+section.store {
+    color: #fff;
+    background: #{{ site.color.secondary }};
+}
 @media(max-width:767px) {
     section {
         padding: 75px 0;
