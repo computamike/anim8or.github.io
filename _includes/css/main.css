@@ -78,12 +78,22 @@ hr.star-primary:after {
 
 
 hr.star-white {
-    border-color: #fff;
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+    overflow: visible;
+}
 
+hr.star-white {
+    border-color: #{{ site.color.secondary }};
+    background-color: blue;
 }
 hr.star-white:after {
-    color: #fff;
-    border-color: #{{ site.color.secondary }};
+    color: #{{ site.color.secondary }};
+    background-color: #fff;
 }
 
 
