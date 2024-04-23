@@ -293,6 +293,22 @@ section.store {
     }
   } */
 
+
+buttonEXT {
+    color: #ffffff;
+    background-color: #ffc000;
+    padding: 15px 50px;
+    cursor: pointer
+}
+buttonEXT:hover {
+    color: #ffffff;
+    background-color: #128f76;
+}
+
+
+
+
+
 .btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
