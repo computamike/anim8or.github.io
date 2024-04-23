@@ -88,8 +88,8 @@ hr.star-white {
 }
 
 hr.star-white {
-    border-color: #{{ site.color.secondary }};
-    background-color: blue;
+    color: White
+    
 }
 hr.star-white:after {
     color: #{{ site.color.secondary }};
