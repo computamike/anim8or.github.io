@@ -77,27 +77,6 @@ hr.star-primary:after {
 }
 
 
-hr.star-white,
-hr.star-primary {
-    margin: 25px auto 30px;
-    padding: 0;
-    max-width: 250px;
-    border: 0;
-    border-top: solid 5px;
-    text-align: center;
-    overflow: visible;
-}
-
-hr.star-white {
-    color: White
-    
-}
-hr.star-white:after {
-    color: #{{ site.color.secondary }};
-    background-color: #fff;
-}
-
-
 .img-centered {
     margin: 0 auto;
 }
