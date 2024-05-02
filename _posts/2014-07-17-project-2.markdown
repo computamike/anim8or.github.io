@@ -6,6 +6,6 @@ img: windbreaker.png
 alt: image-alt
 project-date: May 2024
 client: Eniekey Press
-category: Spy
+Genre: Spy
 description: 28 page A4, full colour spy comedy featuring John Sterling, Agent of S.N.O.O.P
 ---
