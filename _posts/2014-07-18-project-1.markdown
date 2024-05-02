@@ -6,6 +6,6 @@ img: spacecrash.png
 alt: image-alt
 project-date: April 2020-2023
 client: Eniekey Press
-category: Sci fi
+Genre: Sci fi
 description: Silent Sci fi series First published in 2019. Issue 1 used inktobed prompts to determine the story 5 issues, Each 40 pages A5
 ---
