@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 4
+modal-id: Blobby Horror Anthology
 date: 2014-07-15
 img: blobby.png
 alt: image-alt
