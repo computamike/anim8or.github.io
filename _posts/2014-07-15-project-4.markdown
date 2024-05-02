@@ -4,8 +4,8 @@ modal-id: 4
 date: 2014-07-15
 img: blobby horror comic.jpg
 alt: image-alt
-project-date: April 2014
+project-date: October 2023
 client: Frisson Comics
 category: Horror
-description: 4 page story about urban exploration and the horror icon that is Mr. Blobby! 17 creators, A5 72 pages
+description: 4 page story about urban exploration and the horror icon that is Mr. Blobby! 17 creators, A5, 72 pages
 ---
