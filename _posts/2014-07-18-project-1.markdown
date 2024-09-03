@@ -1,4 +1,5 @@
 ---
+title: SpaceCrash
 layout: default
 modal-id: SpaceCrash
 date: 2014-07-18
@@ -7,5 +8,5 @@ alt: image-alt
 project-date: April 2020-2023
 client: Eniekey Press
 Genre: Sci fi
-description: Silent Sci fi series First published in 2019. Issue 1 used inktobed prompts to determine the story 5 issues, Each 40 pages A5
+description: Silent Sci fi series First published in 2019. Issue 1 used inktober prompts to determine the story 5 issues, Each 40 pages A5
 ---
